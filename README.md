@@ -12,4 +12,4 @@
 - Place the `chat.json` file in the same directory (folder) as this script.
 - Specify the username of your target as a command-line argument: `node index.js "JohnDoe#1234"`.
 - After a little while you'll have a `training.jsonl` file in the same directory (folder) as this script.
-- Congratulations! The hard part is done. Now just read either [OpenAI's](https://platform.openai.com/docs/guides/fine-tuning) or [MistralAI's](https://docs.mistral.ai/guides/finetuning/) to fine-tune an existing LLM.
+- Congratulations! The hard part is done. Now just read either [OpenAI's](https://platform.openai.com/docs/guides/fine-tuning) or [MistralAI's](https://docs.mistral.ai/guides/finetuning/) guide to fine-tune an existing LLM.
